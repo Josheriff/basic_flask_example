@@ -7,6 +7,7 @@ def hello_world():
     if request.method == 'GET':
         greetings = {'text':'Hello world'}
         return jsonify(greetings)
+        
     if request.method == 'POST':
         data = request.json
         age = data.get('age')
