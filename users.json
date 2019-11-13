@@ -1,4 +1,1 @@
-{
-    "users":[{"name":"jose", "age":36, "password":"aserejedeja"},
-             {"name":"silvia", "age":30, "password":"ISleepBetterThanYouMuehehehe"}]
-}
+{"users": [{"name": "jose", "age": 36, "password": "aserejedeja"}, {"name": "silvia", "age": 30, "password": "ISleepBetterThanYouMuehehehe"}, {"name": "test", "password": "testtest", "age": 1}]}
